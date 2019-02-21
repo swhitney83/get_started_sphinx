@@ -1,9 +1,9 @@
 
 
-Key Skills Experience
+Key Skills
 #########################
 
-.. list-table:: Key Skills
+.. list-table:: My Skills
    :widths: 50 50 50
    :header-rows: 1
 
