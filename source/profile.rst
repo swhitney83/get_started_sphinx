@@ -7,6 +7,9 @@ My name is Sara. I am the Retail Trainer & Professional Development Manager at a
 It has been a challenge for me to find training how to write procedures and manuals. In the banking industry we have plenty of courses on business writing and financial writing, but not on technical writing. I struggle most with how to format procedures. I don’t think my procedures are displayed in the best way possible for easy reading. I am hoping this course will provide insight into this.
 
 
-
+* I have a beef with the IT department.
+* I HATE Windows 10.
+* I have a second job.
+* I have a lot of fun with all my coworkers.
 
 
