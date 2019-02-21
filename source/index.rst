@@ -2,12 +2,11 @@ Sample Resume with Sphinx
 ###############################
 
 
-.. image:: images/github-photo.png
+.. image:: https://raw.githubusercontent.com/swhitney83/Image/master/Sara%20Whitney.jpg
          :name: my picture
          :width: 30%
 
-Mark Hoeber
-Instructor, Middlesex Community College
+Sara
 
 
 |Contents|
