@@ -3,26 +3,26 @@
 Experience
 ############
 
-Job Title at Company
+Training Director
 **********************
 
-*April 2011 - Present*
+*August 2017 - Present*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+This job wasn't a choice. I was told this was my job.
 
-Job Title at Company
+Assistant Manager
 ***********************
 
-*Janruary 2007 - March 2011*
+*December 2015 - August 2017*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+I don't remember why I needed to do this job. I wish I did more in this position.
 
-Job Title at Company
+Customer Service Rep
 *********************
 
-*October 2004 - December 2006*
+*May 2011 - December 2015*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+I liked this job the best.
 
 
 
