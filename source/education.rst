@@ -3,20 +3,20 @@
 Education 
 ############
 
-College/University
+Southern New Hampshire University
 **********************
 
-*Degree*
+*BA Business Finance*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+I enjoyed getting a degree online.
 
 
-College/University
+Fitchburg State University
 **********************
 
-*Degree*
+*BA Middle School Education*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+I did not like this college.
 
 
 
